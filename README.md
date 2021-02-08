@@ -25,14 +25,4 @@ Components Used
 9.Jumper Wires
 10.Chassis
 
-Component list--> https://drive.google.com/file/d/1TypCcfQTqDJU2k6CxOJZ5lWzEDMU4li0/view?usp=sharing
 
-Project final report--> https://drive.google.com/file/d/1OjbLCv712ov0zOSpqn1izzYGJG779bxr/view?usp=sharing
-
-testing video--> https://youtu.be/2T7MP5D8ga0
-
-Sketches of the project-
-   Code of arduino UNO --> https://github.com/puru2411/purushotamk/blob/master/arduinocodeofcellphonecontrolledcar.ino
-
-   Code of node MCU  -->
-https://github.com/puru2411/purushotamk/blob/master/nodemcucodeofcellphonecontrolledcar.ino
