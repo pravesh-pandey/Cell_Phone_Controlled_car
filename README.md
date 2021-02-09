@@ -4,7 +4,7 @@ Project description-
    This project will consists two part, one is 3 wheeled car and the other is a mobile application which will control the car. We will be sending accelerometer data from our mobile via WiFi to the car ( NodeMCU module). and then after getting the data, on board micro controller (Arduino UNO) will navigate the car accordingly.
 
 Project details and working-
-  This project is an application of IoT. We are using ![Arduino UNO] as a micro- controller and ![Node MCU] (1.0 12E) as a WiFi module. The whole project consist of two part, i.e, app and car.
+  This project is an application of IoT. We are using ![Arduino UNO()] as a micro- controller and ![Node MCU] (1.0 12E) as a WiFi module. The whole project consist of two part, i.e, app and car.
 
 ~App detail-
 In this project we make our app using MIT app inventor. The app is design such as, it will fetch accelerometer data from the accelerometer sensor of our mobile phone and print it on the screen of the phone. Along with that it will send the same data to the NODE MCU in every 100ms in the form of string like -->
