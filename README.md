@@ -1,4 +1,4 @@
-# cell-phone-controlled-car
+# cell-phone-controlled-car <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=pravesh-pandey.Cell_Phone_Controlled_car"/>
 
 Project description-
    This project will consists two part, one is 3 wheeled car and the other is a mobile application which will control the car. We will be sending accelerometer data from our mobile via WiFi to the car ( NodeMCU module). and then after getting the data, on board micro controller (Arduino UNO) will navigate the car accordingly.
